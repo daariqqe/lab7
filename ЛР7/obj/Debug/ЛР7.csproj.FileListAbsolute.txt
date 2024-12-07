@@ -1,0 +1,10 @@
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\bin\Debug\ЛР7.exe.config
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\bin\Debug\ЛР7.exe
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\bin\Debug\ЛР7.pdb
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.AssemblyReference.cache
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.Properties.Resources.resources
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.GenerateResource.cache
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.CoreCompileInputs.cache
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.exe
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.pdb
+C:\Users\Юра будет дуть\source\repos\ЛР7\ЛР7\obj\Debug\ЛР7.Form1.resources
